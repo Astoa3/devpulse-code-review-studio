@@ -1,0 +1,6 @@
+{
+  "name": "DevPulse AI Code Review Studio",
+  "description": "Desktop-grade AI code review platform simulating Senior Software Engineer, Senior QA Engineer, and Engineering Manager perspectives to detect bugs, security flaws, performance bottlenecks, and architectural debt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
